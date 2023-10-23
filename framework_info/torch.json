@@ -1,0 +1,10 @@
+{
+    "framework": {
+        "simple_name": "torch_compile",
+        "full_name": "torch_compile",
+        "prefix": "tc",
+        "postfix": "torch",
+        "class": "TorchFramework",
+        "arch": "gpu"
+    }
+}
